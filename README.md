@@ -1,6 +1,6 @@
 # ConectJDBC
 
-1. Create Datbase - PostgreSQL. 
+1. Create Database - PostgreSQL. 
 2. Querys crete tables
 3. Read csv and write in Postgres
 4. Read query and write in file(.xls) 
