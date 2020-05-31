@@ -9,14 +9,14 @@ public class Main {
     public static void main(String[] args) throws IOException {
 
             /**Create Tables*/
-//
-//        Solution0 solution0 = new Solution0();
-//        solution0.allTables();
-//
-//            /**Read csv and write in Postgres*/
-//
-//        SolutionA solutionA = new SolutionA();
-//        solutionA.solute();
+
+       Solution0 solution0 = new Solution0();
+       solution0.allTables();
+
+           /**Read csv and write in Postgres*/
+
+       SolutionA solutionA = new SolutionA();
+       solutionA.solute();
 
             /**Read query and write in file(.xls)*/
 
